@@ -33,7 +33,7 @@
 
 ## 2 Access SequenBench
 <br>All the  questions,options and answers are in the directory **_(Dataset/dataset)_**.
-<br>All the  images are in the directory **_(Dataset/images)_**.
+<br>All the  images are in the directory **_(Images/)_**.
 
 ### Data Split
 As reported in the folloeing table, SequenBench contains 3500 samples, divided into training, validation, and test sets

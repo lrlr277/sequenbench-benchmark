@@ -83,7 +83,7 @@ profile_default/
 ipython_config.py
 
 # pyenv
-#   For a library or package, you might want to ignore these files since the code is
+#   For a library or package, you might want to ignore these files since the Code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
 
@@ -195,8 +195,8 @@ cython_debug/
 .pypirc
 
 # Cursor
-#  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
-#  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
+#  Cursor is an AI-powered Code editor. `.cursorignore` specifies files/directories to
+#  exclude from AI features like autocomplete and Code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
