@@ -15,7 +15,7 @@ from peft import LoraConfig, get_peft_model
 # --- 1. 配置模型和数据路径 (请根据你的实际情况修改) ---
 # 基础模型路径
 MODEL_PATH = "/mnt/beegfs/xr/models/vl/instructblip-vicuna-7b"
-TRAIN_DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/train_sharegpt_instructblip.jsonl"
+TRAIN_DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/train_sharegpt_instructblip.jsonl"
 # 微调后模型的输出路径
 OUTPUT_DIR = "/mnt/beegfs/xr/lm_multimodal/seq/finetune/lora/instructblip/v0"
 

@@ -1,7 +1,7 @@
 import jsonlines
 
-DATA_PATH = "split_712/test.jsonl"
-DST_PATH = "split_712/test_circular.jsonl"
+DATA_PATH = "split_73/test.jsonl"
+DST_PATH = "split_73/test_circular.jsonl"
 
 def read_jsonl(file_path):
     data = []

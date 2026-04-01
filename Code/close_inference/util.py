@@ -6,7 +6,7 @@ import json
 random.seed(42)
 
 TEST_DATA_PATH = r"D:\归档\科研\2508-多模态实验\seq\data\split_712\test_200.jsonl"  
-# TEST_DATA_PATH = r"D:\归档\科研\2508-多模态实验\seq\data\split_712\test_200_circular.jsonl"  
+# TEST_DATA_PATH = r"D:\归档\科研\2508-多模态实验\seq\data\split_73\test_200_circular.jsonl"
 RERUN_MODES = ["gemini_0shot", "gemini_1shot", "gpt5_0shot", "gpt5_2shot"]
 RERUN_DATA_DICT = {mode: rf"D:\归档\科研\2508-多模态实验\seq\data\split_712\test_rerun_100_circular_{mode}.jsonl" for mode in RERUN_MODES}
 TRAIN_DATA_PATH = r"D:\归档\科研\2508-多模态实验\seq\data\split_712\train.jsonl"  

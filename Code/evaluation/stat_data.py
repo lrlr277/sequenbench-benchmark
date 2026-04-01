@@ -4,9 +4,9 @@ import pandas as pd
 
 DATA_PATH = {
     "all": "/mnt/beegfs/xr/lm_multimodal/seq/data/all.jsonl",
-    "train": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/train.jsonl",
-    "val": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/val.jsonl",
-    "test": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/test.jsonl"
+    "train": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/train.jsonl",
+    "val": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/val.jsonl",
+    "test": "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/test.jsonl"
 }
 CSV_PATH = f"output/stat_dataset.csv"
 

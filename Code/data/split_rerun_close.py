@@ -2,9 +2,9 @@ import jsonlines
 import random
 
 n = 100
-test_file = "split_712/test.jsonl"
-close_file = f"split_712/test_rerun_{n}.jsonl"
-ref_file = f"split_712/test_200.jsonl"
+test_file = "split_73/test.jsonl"
+close_file = f"split_73/test_rerun_{n}.jsonl"
+ref_file = f"split_73/test_200.jsonl"
 
 def read_jsonl(file_path):
     data = []

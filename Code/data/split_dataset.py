@@ -2,9 +2,9 @@ import jsonlines
 import random
 
 all_file = "all.jsonl"
-train_file = "split_712/train.jsonl"
-val_file = "split_712/val.jsonl"
-test_file = "split_712/test.jsonl"
+train_file = "split_73/train.jsonl"
+val_file = "split_73/val.jsonl"
+test_file = "split_73/test.jsonl"
 
 def read_jsonl(file_path):
     data = []

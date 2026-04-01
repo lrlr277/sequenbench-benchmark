@@ -1,6 +1,6 @@
-DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/test.jsonl"  
-DATA_PART_PATH = [f"/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/parts/part_{str(i)}.jsonl" for i in range(14)]
-CIRCULAR_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/test_circular.jsonl"  
+DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/test.jsonl"
+DATA_PART_PATH = [f"/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/parts/part_{str(i)}.jsonl" for i in range(14)]
+CIRCULAR_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/test_circular.jsonl"
 IMAGE_DIR = "/mnt/beegfs/xr/lm_multimodal/seq/data/Images"
 RESULT_DIR = {
     "base": "/mnt/beegfs/xr/lm_multimodal/seq/model_output/base",

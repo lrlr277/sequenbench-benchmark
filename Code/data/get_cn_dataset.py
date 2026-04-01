@@ -1,8 +1,8 @@
 import jsonlines
 
-src_file = "split_712/test_200.jsonl"
+src_file = "split_73/test_200.jsonl"
 ref_file = "all_cn.jsonl"
-dst_file = "split_712/test_200_cn.jsonl"
+dst_file = "split_73/test_200_cn.jsonl"
 
 def read_jsonl(file_path):
     data = []

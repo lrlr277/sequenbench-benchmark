@@ -1,5 +1,5 @@
-DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/test.jsonl"  
-CIRCULAR_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_712/test_circular.jsonl"  
+DATA_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/test.jsonl"
+CIRCULAR_PATH = "/mnt/beegfs/xr/lm_multimodal/seq/data/split_73/test_circular.jsonl"
 IMAGE_DIR = "/mnt/beegfs/xr/lm_multimodal/seq/data/Images"
 RESULT_DIR = {
     "base": "/mnt/beegfs/xr/lm_multimodal/seq/model_output/base",
