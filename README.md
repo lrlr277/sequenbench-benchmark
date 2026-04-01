@@ -28,16 +28,16 @@
     - [License](#4-License)
 
 ## 1 Overview
-**SequenBench**  is a benchmark for testing **the visual ranking ability** of multimodal large language models, consisting of 3000 images and
-3500 multiple-choice questions
+**SequenBench**  is a benchmark for testing **the visual ranking ability** of multimodal large language models, consisting of 6761 images and
+7261 multiple-choice questions
 
 ## 2 Access SequenBench
 <br>All the  questions,options and answers are in the directory **_(Dataset/dataset)_**.
 <br>All the  images are in the directory **_(Images/)_**.
 
 ### Data Split
-As reported in the folloeing table, SequenBench contains 3500 samples, divided into training, validation, and test sets
-according to a 7:1:2 ratio.
+As reported in the folloeing table, SequenBench contains 7261 samples, divided into training,  test sets
+according to a 7:3 ratio.
 <br>All the splited data sets are in the directory **_(Dataset/dataset)_**.
 
 ### Data Format
