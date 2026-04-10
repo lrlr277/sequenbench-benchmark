@@ -2,8 +2,8 @@ import jsonlines
 from util import ROLE_PROMPT
 
 split = 'train'
-data_file = f"split_712/{split}.jsonl"
-dst_file = f"split_712/{split}_sharegpt_instructblip.jsonl"
+data_file = f"split_73/{split}.jsonl"
+dst_file = f"split_73/{split}_sharegpt_instructblip.jsonl"
 
 def read_jsonl(file_path):
     data = []
